@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+img {
+    width: 30%;
+    margin: 22px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+img:hover {
+    opacity: 0.95;
+    transform: scale(0.99);
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+nav {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
